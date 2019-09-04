@@ -141,11 +141,7 @@ body {
 
 .testimonial-text {
 	font-weight: 800;
-<<<<<<< HEAD
 	font-size: 3rem;
-=======
-	font-size: 3.5rem;
->>>>>>> 5794fc44667d096208c98daa46f792c89dc4d022
 	line-height: 1.5;
 }
 
@@ -251,11 +247,7 @@ body {
 /* Footer */
 #footer {
 	background-color: #fff;
-<<<<<<< HEAD
 	padding: 7% 15%;
-=======
-	padding: 8% 0;
->>>>>>> 5794fc44667d096208c98daa46f792c89dc4d022
 	text-align: center;
 }
 
